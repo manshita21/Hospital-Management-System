@@ -1,0 +1,787 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manja\\Desktop\\DBSproject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|c:\\users\\manja\\desktop\\dbsproject\\dbsproject\\form15.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|solutionrelative:dbsproject\\form15.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|C:\\Users\\manja\\Desktop\\DBSproject\\dbsproject\\form15.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|solutionrelative:dbsproject\\form15.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|c:\\users\\manja\\desktop\\dbsproject\\dbsproject\\form19.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|solutionrelative:dbsproject\\form19.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|C:\\Users\\manja\\Desktop\\DBSproject\\dbsproject\\form19.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|solutionrelative:dbsproject\\form19.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|c:\\users\\manja\\desktop\\dbsproject\\dbsproject\\form19.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|solutionrelative:dbsproject\\form19.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|c:\\users\\manja\\desktop\\dbsproject\\dbsproject\\form18.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|solutionrelative:dbsproject\\form18.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|C:\\Users\\manja\\Desktop\\DBSproject\\dbsproject\\form18.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|solutionrelative:dbsproject\\form18.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|c:\\users\\manja\\desktop\\dbsproject\\dbsproject\\form17.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|solutionrelative:dbsproject\\form17.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|C:\\Users\\manja\\Desktop\\DBSproject\\dbsproject\\form17.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|solutionrelative:dbsproject\\form17.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|c:\\users\\manja\\desktop\\dbsproject\\dbsproject\\form16.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|solutionrelative:dbsproject\\form16.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|C:\\Users\\manja\\Desktop\\DBSproject\\dbsproject\\form16.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|solutionrelative:dbsproject\\form16.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|c:\\users\\manja\\desktop\\dbsproject\\dbsproject\\form14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|solutionrelative:dbsproject\\form14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|C:\\Users\\manja\\Desktop\\DBSproject\\dbsproject\\form14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|solutionrelative:dbsproject\\form14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|c:\\users\\manja\\desktop\\dbsproject\\dbsproject\\form11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|solutionrelative:dbsproject\\form11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|C:\\Users\\manja\\Desktop\\DBSproject\\dbsproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|solutionrelative:dbsproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|c:\\users\\manja\\desktop\\dbsproject\\dbsproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|solutionrelative:dbsproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|c:\\users\\manja\\desktop\\dbsproject\\dbsproject\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|solutionrelative:dbsproject\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|c:\\users\\manja\\desktop\\dbsproject\\dbsproject\\form12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|solutionrelative:dbsproject\\form12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|C:\\Users\\manja\\Desktop\\DBSproject\\dbsproject\\form12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|solutionrelative:dbsproject\\form12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|c:\\users\\manja\\desktop\\dbsproject\\dbsproject\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|solutionrelative:dbsproject\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|C:\\Users\\manja\\Desktop\\DBSproject\\dbsproject\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|solutionrelative:dbsproject\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|C:\\Users\\manja\\Desktop\\DBSproject\\dbsproject\\form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|solutionrelative:dbsproject\\form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|C:\\Users\\manja\\Desktop\\DBSproject\\dbsproject\\form11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|solutionrelative:dbsproject\\form11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|c:\\users\\manja\\desktop\\dbsproject\\dbsproject\\form12.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|solutionrelative:dbsproject\\form12.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|C:\\Users\\manja\\Desktop\\DBSproject\\dbsproject\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|solutionrelative:dbsproject\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|c:\\users\\manja\\desktop\\dbsproject\\dbsproject\\form6.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|solutionrelative:dbsproject\\form6.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|C:\\Users\\manja\\Desktop\\DBSproject\\dbsproject\\form13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|solutionrelative:dbsproject\\form13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|c:\\users\\manja\\desktop\\dbsproject\\dbsproject\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|solutionrelative:dbsproject\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|C:\\Users\\manja\\Desktop\\DBSproject\\dbsproject\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|solutionrelative:dbsproject\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|c:\\users\\manja\\desktop\\dbsproject\\dbsproject\\form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|solutionrelative:dbsproject\\form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|c:\\users\\manja\\desktop\\dbsproject\\dbsproject\\form9.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|solutionrelative:dbsproject\\form9.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|C:\\Users\\manja\\Desktop\\DBSproject\\dbsproject\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|solutionrelative:dbsproject\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|c:\\users\\manja\\desktop\\dbsproject\\dbsproject\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|solutionrelative:dbsproject\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|c:\\users\\manja\\desktop\\dbsproject\\dbsproject\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|solutionrelative:dbsproject\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|c:\\users\\manja\\desktop\\dbsproject\\dbsproject\\form7.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|solutionrelative:dbsproject\\form7.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|C:\\Users\\manja\\Desktop\\DBSproject\\dbsproject\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|solutionrelative:dbsproject\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|C:\\Users\\manja\\Desktop\\DBSproject\\dbsproject\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|solutionrelative:dbsproject\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|c:\\users\\manja\\desktop\\dbsproject\\dbsproject\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|solutionrelative:dbsproject\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|C:\\Users\\manja\\Desktop\\DBSproject\\dbsproject\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|solutionrelative:dbsproject\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|c:\\users\\manja\\desktop\\dbsproject\\dbsproject\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|solutionrelative:dbsproject\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|C:\\Users\\manja\\Desktop\\DBSproject\\dbsproject\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|solutionrelative:dbsproject\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|c:\\users\\manja\\desktop\\dbsproject\\dbsproject\\form8.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|solutionrelative:dbsproject\\form8.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|c:\\users\\manja\\desktop\\dbsproject\\dbsproject\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|solutionrelative:dbsproject\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|c:\\users\\manja\\desktop\\dbsproject\\dbsproject\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|solutionrelative:dbsproject\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|c:\\users\\manja\\desktop\\dbsproject\\dbsproject\\form4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|solutionrelative:dbsproject\\form4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|c:\\users\\manja\\desktop\\dbsproject\\dbsproject\\dbsproject.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|solutionrelative:dbsproject\\dbsproject.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|c:\\users\\manja\\desktop\\dbsproject\\dbsproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|solutionrelative:dbsproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|c:\\users\\manja\\desktop\\dbsproject\\dbsproject\\dbsproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D3FB5D76-D136-4269-810F-68CB66FBF299}|DBSproject\\DBSproject.csproj|solutionrelative:dbsproject\\dbsproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form19.cs",
+              "DocumentMoniker": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form19.cs",
+              "RelativeDocumentMoniker": "DBSproject\\Form19.cs",
+              "ToolTip": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form19.cs",
+              "RelativeToolTip": "DBSproject\\Form19.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowE4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T06:54:34.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form19.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form19.cs",
+              "RelativeDocumentMoniker": "DBSproject\\Form19.cs",
+              "ToolTip": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form19.cs [Design]",
+              "RelativeToolTip": "DBSproject\\Form19.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T06:51:04.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form18.cs",
+              "DocumentMoniker": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form18.cs",
+              "RelativeDocumentMoniker": "DBSproject\\Form18.cs",
+              "ToolTip": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form18.cs",
+              "RelativeToolTip": "DBSproject\\Form18.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAewDMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T06:21:43.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form18.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form18.cs",
+              "RelativeDocumentMoniker": "DBSproject\\Form18.cs",
+              "ToolTip": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form18.cs [Design]",
+              "RelativeToolTip": "DBSproject\\Form18.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T06:18:07.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form15.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form15.cs",
+              "RelativeDocumentMoniker": "DBSproject\\Form15.cs",
+              "ToolTip": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form15.cs [Design]",
+              "RelativeToolTip": "DBSproject\\Form15.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T14:29:21.454Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form15.cs",
+              "DocumentMoniker": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form15.cs",
+              "RelativeDocumentMoniker": "DBSproject\\Form15.cs",
+              "ToolTip": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form15.cs",
+              "RelativeToolTip": "DBSproject\\Form15.cs",
+              "ViewState": "AgIAAAABAAAAAAAAAAAgwBEBAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T14:29:25.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form19.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form19.Designer.cs",
+              "RelativeDocumentMoniker": "DBSproject\\Form19.Designer.cs",
+              "ToolTip": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form19.Designer.cs",
+              "RelativeToolTip": "DBSproject\\Form19.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T07:21:24.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form17.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form17.cs",
+              "RelativeDocumentMoniker": "DBSproject\\Form17.cs",
+              "ToolTip": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form17.cs [Design]",
+              "RelativeToolTip": "DBSproject\\Form17.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T05:24:33.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form17.cs",
+              "DocumentMoniker": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form17.cs",
+              "RelativeDocumentMoniker": "DBSproject\\Form17.cs",
+              "ToolTip": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form17.cs",
+              "RelativeToolTip": "DBSproject\\Form17.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwBkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T05:58:22.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form16.cs",
+              "DocumentMoniker": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form16.cs",
+              "RelativeDocumentMoniker": "DBSproject\\Form16.cs",
+              "ToolTip": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form16.cs",
+              "RelativeToolTip": "DBSproject\\Form16.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T04:44:51.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form16.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form16.cs",
+              "RelativeDocumentMoniker": "DBSproject\\Form16.cs",
+              "ToolTip": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form16.cs [Design]",
+              "RelativeToolTip": "DBSproject\\Form16.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T04:28:37.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form14.cs",
+              "DocumentMoniker": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form14.cs",
+              "RelativeDocumentMoniker": "DBSproject\\Form14.cs",
+              "ToolTip": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form14.cs",
+              "RelativeToolTip": "DBSproject\\Form14.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAtwHoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T05:13:19.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form11.cs",
+              "DocumentMoniker": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form11.cs",
+              "RelativeDocumentMoniker": "DBSproject\\Form11.cs",
+              "ToolTip": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form11.cs",
+              "RelativeToolTip": "DBSproject\\Form11.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T14:32:40.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form14.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form14.cs",
+              "RelativeDocumentMoniker": "DBSproject\\Form14.cs",
+              "ToolTip": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form14.cs [Design]",
+              "RelativeToolTip": "DBSproject\\Form14.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T10:18:20.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form1.cs",
+              "RelativeDocumentMoniker": "DBSproject\\Form1.cs",
+              "ToolTip": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form1.cs",
+              "RelativeToolTip": "DBSproject\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T10:08:42.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Form8.cs",
+              "DocumentMoniker": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form8.cs",
+              "RelativeDocumentMoniker": "DBSproject\\Form8.cs",
+              "ToolTip": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form8.cs",
+              "RelativeToolTip": "DBSproject\\Form8.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAlwCwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T09:50:33.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form1.cs",
+              "RelativeDocumentMoniker": "DBSproject\\Form1.cs",
+              "ToolTip": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form1.cs [Design]",
+              "RelativeToolTip": "DBSproject\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T18:28:29.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Form8.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form8.cs",
+              "RelativeDocumentMoniker": "DBSproject\\Form8.cs",
+              "ToolTip": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form8.cs [Design]",
+              "RelativeToolTip": "DBSproject\\Form8.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T09:48:01.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "DBSproject\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form1.Designer.cs",
+              "RelativeToolTip": "DBSproject\\Form1.Designer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwKIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T03:49:46.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Form10.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form10.cs",
+              "RelativeDocumentMoniker": "DBSproject\\Form10.cs",
+              "ToolTip": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form10.cs [Design]",
+              "RelativeToolTip": "DBSproject\\Form10.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T09:53:25.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form12.cs",
+              "DocumentMoniker": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form12.cs",
+              "RelativeDocumentMoniker": "DBSproject\\Form12.cs",
+              "ToolTip": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form12.cs",
+              "RelativeToolTip": "DBSproject\\Form12.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAIwIMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T10:12:26.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Form12.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form12.cs",
+              "RelativeDocumentMoniker": "DBSproject\\Form12.cs",
+              "ToolTip": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form12.cs [Design]*",
+              "RelativeToolTip": "DBSproject\\Form12.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T10:08:33.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Form11.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form11.cs",
+              "RelativeDocumentMoniker": "DBSproject\\Form11.cs",
+              "ToolTip": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form11.cs [Design]",
+              "RelativeToolTip": "DBSproject\\Form11.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T10:01:45.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Form6.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form6.cs",
+              "RelativeDocumentMoniker": "DBSproject\\Form6.cs",
+              "ToolTip": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form6.cs [Design]",
+              "RelativeToolTip": "DBSproject\\Form6.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T09:31:05.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Form12.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form12.Designer.cs",
+              "RelativeDocumentMoniker": "DBSproject\\Form12.Designer.cs",
+              "ToolTip": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form12.Designer.cs",
+              "RelativeToolTip": "DBSproject\\Form12.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T08:14:32.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Form6.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form6.Designer.cs",
+              "RelativeDocumentMoniker": "DBSproject\\Form6.Designer.cs",
+              "ToolTip": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form6.Designer.cs",
+              "RelativeToolTip": "DBSproject\\Form6.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T13:26:50.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Form13.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form13.cs",
+              "RelativeDocumentMoniker": "DBSproject\\Form13.cs",
+              "ToolTip": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form13.cs [Design]",
+              "RelativeToolTip": "DBSproject\\Form13.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T10:13:17.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Form9.cs",
+              "DocumentMoniker": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form9.cs",
+              "RelativeDocumentMoniker": "DBSproject\\Form9.cs",
+              "ToolTip": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form9.cs",
+              "RelativeToolTip": "DBSproject\\Form9.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvyYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T13:45:29.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Form9.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form9.cs",
+              "RelativeDocumentMoniker": "DBSproject\\Form9.cs",
+              "ToolTip": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form9.cs [Design]",
+              "RelativeToolTip": "DBSproject\\Form9.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T09:50:29.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Form10.cs",
+              "DocumentMoniker": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form10.cs",
+              "RelativeDocumentMoniker": "DBSproject\\Form10.cs",
+              "ToolTip": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form10.cs",
+              "RelativeToolTip": "DBSproject\\Form10.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAgwCQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T14:17:04.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Form9.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form9.Designer.cs",
+              "RelativeDocumentMoniker": "DBSproject\\Form9.Designer.cs",
+              "ToolTip": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form9.Designer.cs",
+              "RelativeToolTip": "DBSproject\\Form9.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T13:50:03.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Form7.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form7.cs",
+              "RelativeDocumentMoniker": "DBSproject\\Form7.cs",
+              "ToolTip": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form7.cs [Design]",
+              "RelativeToolTip": "DBSproject\\Form7.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T09:25:33.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Form7.cs",
+              "DocumentMoniker": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form7.cs",
+              "RelativeDocumentMoniker": "DBSproject\\Form7.cs",
+              "ToolTip": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form7.cs",
+              "RelativeToolTip": "DBSproject\\Form7.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAwEkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T13:11:51.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Form6.cs",
+              "DocumentMoniker": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form6.cs",
+              "RelativeDocumentMoniker": "DBSproject\\Form6.cs",
+              "ToolTip": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form6.cs",
+              "RelativeToolTip": "DBSproject\\Form6.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAADIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T09:40:48.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Form7.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form7.Designer.cs",
+              "RelativeDocumentMoniker": "DBSproject\\Form7.Designer.cs",
+              "ToolTip": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form7.Designer.cs",
+              "RelativeToolTip": "DBSproject\\Form7.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T09:25:37.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form4.cs",
+              "RelativeDocumentMoniker": "DBSproject\\Form4.cs",
+              "ToolTip": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form4.cs [Design]",
+              "RelativeToolTip": "DBSproject\\Form4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T19:04:14.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form3.cs",
+              "RelativeDocumentMoniker": "DBSproject\\Form3.cs",
+              "ToolTip": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form3.cs [Design]",
+              "RelativeToolTip": "DBSproject\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T13:14:33.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form4.cs",
+              "RelativeDocumentMoniker": "DBSproject\\Form4.cs",
+              "ToolTip": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form4.cs",
+              "RelativeToolTip": "DBSproject\\Form4.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAmwGgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T19:04:29.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Form5.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form5.cs",
+              "RelativeDocumentMoniker": "DBSproject\\Form5.cs",
+              "ToolTip": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form5.cs [Design]",
+              "RelativeToolTip": "DBSproject\\Form5.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T09:47:12.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form2.cs",
+              "RelativeDocumentMoniker": "DBSproject\\Form2.cs",
+              "ToolTip": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form2.cs [Design]",
+              "RelativeToolTip": "DBSproject\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T09:26:14.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Form5.cs",
+              "DocumentMoniker": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form5.cs",
+              "RelativeDocumentMoniker": "DBSproject\\Form5.cs",
+              "ToolTip": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form5.cs",
+              "RelativeToolTip": "DBSproject\\Form5.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADgvxUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T10:34:09.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Form8.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form8.Designer.cs",
+              "RelativeDocumentMoniker": "DBSproject\\Form8.Designer.cs",
+              "ToolTip": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form8.Designer.cs",
+              "RelativeToolTip": "DBSproject\\Form8.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T10:29:44.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form3.cs",
+              "RelativeDocumentMoniker": "DBSproject\\Form3.cs",
+              "ToolTip": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form3.cs",
+              "RelativeToolTip": "DBSproject\\Form3.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T09:26:22.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form2.cs",
+              "RelativeDocumentMoniker": "DBSproject\\Form2.cs",
+              "ToolTip": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form2.cs",
+              "RelativeToolTip": "DBSproject\\Form2.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAswCkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T09:36:41.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "DBSproject.csproj",
+              "DocumentMoniker": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\DBSproject.csproj",
+              "RelativeDocumentMoniker": "DBSproject\\DBSproject.csproj",
+              "ToolTip": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\DBSproject.csproj",
+              "RelativeToolTip": "DBSproject\\DBSproject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-03T19:20:19.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Form4.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form4.Designer.cs",
+              "RelativeDocumentMoniker": "DBSproject\\Form4.Designer.cs",
+              "ToolTip": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Form4.Designer.cs",
+              "RelativeToolTip": "DBSproject\\Form4.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T19:04:23.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Program.cs",
+              "RelativeDocumentMoniker": "DBSproject\\Program.cs",
+              "ToolTip": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\Program.cs",
+              "RelativeToolTip": "DBSproject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T19:24:59.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "DBSproject",
+              "DocumentMoniker": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\DBSproject.csproj",
+              "RelativeDocumentMoniker": "DBSproject\\DBSproject.csproj",
+              "ToolTip": "C:\\Users\\manja\\Desktop\\DBSproject\\DBSproject\\DBSproject.csproj",
+              "RelativeToolTip": "DBSproject\\DBSproject.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-03T19:27:13.118Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
